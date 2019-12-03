@@ -1,4 +1,5 @@
 public class Vehiculo {
+//Autor: Raúl García Pacheco.
 	private String matricula;
 	private String fabricante;
 	private String modelo;
