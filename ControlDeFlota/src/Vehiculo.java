@@ -1,5 +1,6 @@
 public class Vehiculo {
 //Autor: Raúl García Pacheco.
+//Descripción: vehículo perteneciente a una flota de vehículos.
 	private String matricula;
 	private String fabricante;
 	private String modelo;
